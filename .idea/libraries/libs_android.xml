@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SquishyBird-android/libs/gdx-backend-android-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SquishyBird-android/libs/gdx-backend-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
